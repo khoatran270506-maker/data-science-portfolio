@@ -1,0 +1,33 @@
+# Eggplant Leaf Disease Classification
+
+## 1. Introduction
+This project focuses on classifying eggplant
+leaf diseases using deep learning.
+
+## 2. Objectives
+- Classify eggplant leaf diseases.
+- Explore CNN architectures.
+- Evaluate EfficientNet models.
+
+## 3. Dataset
+Describe the dataset and its classes.
+
+## 4. Methodology
+- Data preprocessing
+- Data augmentation
+- Model training
+- Model evaluation
+
+## 5. Models
+- EfficientNetB0
+- EfficientNetB1
+
+## 6. Results
+Add actual experimental results,
+confusion matrix and evaluation metrics.
+
+## 7. Technologies
+Python, PyTorch/TensorFlow, NumPy, Pandas.
+
+## 8. How to Run
+Provide installation and execution instructions.
